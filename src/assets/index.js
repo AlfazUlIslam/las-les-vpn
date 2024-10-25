@@ -1,1 +1,5 @@
 export { default as logo } from "./logo.png"
+export { default as bannerImage } from "./banner-image.png"
+export { default as user } from "./user.png"
+export { default as mapPin } from "./map-pin.png"
+export { default as server } from "./server.png"
