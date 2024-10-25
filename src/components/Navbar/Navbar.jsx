@@ -54,9 +54,10 @@ const Navbar = () => {
                     </button>
                     {/* mobile menu */}
                     {toggle && 
-                    <div className="min-w-sm border border-[#DDD] 
-                    rounded-lg shadow-xl px-6 py-4 flex flex-col 
-                    gap-4 absolute top-14 -right-4 slide-up">
+                    <div className="min-w-sm bg-[#FFF] border 
+                    border-[#DDD] rounded-lg shadow-xl px-6 py-4 
+                    flex flex-col gap-4 absolute top-14 -right-4 
+                    slide-up">
                         {/* navbar links */}
                         <ul className="flex flex-col justify-center 
                         items-center">
