@@ -5,7 +5,11 @@ export default {
     "./src/**/*.{js,jsx}"
   ],
   theme: {
-    extend: {},
+    extend: {
+      boxShadow: {
+        'darkRed': '0 35px 60px -15px #59F53838',
+      }
+    },
     colors: {
       lightWhite: "#F6F6F6",
       darkWhite: "#F8F8F8",
