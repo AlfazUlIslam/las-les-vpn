@@ -7,6 +7,8 @@ export { default as featuresImage } from "./features-image.png"
 export { default as checkedCircle } from "./checked-circle.png"
 export { default as surprise } from "./surprise.png"
 export { default as checked } from "./checked.png"
+export { default as globalNetwork } from "./global-network.png"
+export { default as sponsors } from "./sponsors.png"
 
 export const planFeatures = {
     free: [
