@@ -1,5 +1,5 @@
 import { Navbar } from "./components"
-import { Banner, Features } from "./sections"
+import { Banner, Features, ChoosePlan } from "./sections"
 import './App.css'
 
 function App() {
@@ -8,6 +8,9 @@ function App() {
       <Navbar />
       <Banner />
       <Features />
+      <div className="bg-lightWhite">
+        <ChoosePlan />
+      </div>
     </div>
   )
 }
