@@ -7,7 +7,7 @@ const Testimonials = () => {
     // testimonials section
     <section id="testimonials">
       {/* testimonilas container */}
-        <div className="container px-6 pb-[60px] xl:pb-[180px]">
+        <div className="container px-6 pb-[180px]">
           {/* testimonials heading */}
           <h2 className="w-[280px] mx-auto font-rubik 
           font-medium text-[25px] leading-[40px] text-blueishBlack 
