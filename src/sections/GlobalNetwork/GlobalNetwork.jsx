@@ -5,8 +5,8 @@ const GlobalNetwork = () => {
         // global network
         <section id="global-network">
             {/* global network container */}
-            <div className="container px-6 pb-[120px] flex 
-            flex-col items-center">
+            <div className="container px-6 pb-[60px] flex 
+            flex-col items-center xl:pb-[120px]">
                 {/* global network heading */}
                 <h2 className="w-[280px] font-rubik font-medium 
                 text-[25px] leading-[40px] text-blueishBlack 
